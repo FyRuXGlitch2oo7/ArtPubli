@@ -1,0 +1,37 @@
+body {
+    font-family: "Comic Sans MS";
+background-color: lab(74.42% 24.05 -37.47);
+color: rgb(0, 0, 0);
+background-image: url("Capture.PNG");
+
+}
+fieldset {
+background: lab(100% 0.01 -0.01);
+color: rgb(9, 8, 9);
+margin: 8%;
+padding: 1%;
+border: 5px solid #aa09d2;
+border-radius: 3px;
+box-shadow: 5px 5px 10px #666;
+}
+#link-projetos{
+color: #0a090a;
+  text-decoration: none;
+margin: 5%;
+}
+#link-projetos:hover{
+color: rgb(212, 63, 63); 
+text-decoration: underline;
+
+}
+#xoxo{
+    background-color: #fbff7f;
+}
+#lista-sem-pontos{
+  list-style-type: none;
+  padding-left: 0; 
+  text-decoration: none;
+}
+
+
+
